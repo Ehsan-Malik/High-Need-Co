@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/drawable/buttons_background.xml" value="0.107" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_add_student.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_donor_registeration.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_donorstudent_details.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_easy_paisa.xml" value="0.109375" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_funded_students.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_funded_students_school.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_login.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_myfundings.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_mystudents.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_non_funded_students.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_non_funded_students_school.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_order_success.xml" value="0.109375" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_profile.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_school_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_school_registeration.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_selelct_registeration.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_splash_screen.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/activity_student_details.xml" value="0.11428571428571428" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/custom_alert.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/custom_list.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/header.xml" value="0.1" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/singlerow.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/layout/user_displayed_layout.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/menu/main_menu.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/VAlley/AndroidStudioProjects/app/src/main/res/menu/main_menu_donor.xml" value="0.16197916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_myfeed"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile"/>
+
+
+
+    <item
+        android:id="@+id/students_non_funded"
+        android:title="Non Funded Students"
+        android:icon="@drawable/ic_income"/>
+
+    <item
+        android:id="@+id/students_funded"
+        android:title="Funded Students"
+        android:icon="@drawable/ic_number"/>
+
+
+
+
+
+
+    <item
+        android:id="@+id/myStudents"
+        android:title="My Students"
+        android:icon="@drawable/ic_income"/>
+
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_lock"/>
+
+</menu>
